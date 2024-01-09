@@ -4,3 +4,4 @@ Repository for submission of tasks in for Deparment of Geomatics under Faculty o
 ## TASKS:
 
 - **1)** JPEG Compression
+- **2)** K-means clustering, LiDAR ,PCA
